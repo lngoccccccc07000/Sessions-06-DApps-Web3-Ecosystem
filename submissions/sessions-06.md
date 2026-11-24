@@ -1,8 +1,8 @@
-# Session 06-
+# Session 06-DApps,Web3&Ecosystem
 
 - Student: Lê Thị Bích Ngọc
-- GitHub:https://github.com/lngoccccccc07000/Sessions-05-Smart-Contracts-Digital-Assets
-- Submitted: 2026-11-17
+-Github:https://github.com/lngoccccccc07000/Sessions-06-DApps-Web3-Ecosystem
+- Submitted: 2026-11-24
 - Commit:https://github.com/lngoccccccc07000
 ## 1. Summary
 -Smart contract thực thi quy tắc trên blockchain; token là tài sản do hợp đồng quản lý; stablecoin, NFT và phí gas là các dạng ứng dụng hoặc cơ chế khác nhau của token.
